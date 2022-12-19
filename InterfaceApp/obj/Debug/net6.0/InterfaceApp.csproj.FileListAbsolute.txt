@@ -1,0 +1,15 @@
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/bin/Debug/net6.0/InterfaceApp
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/bin/Debug/net6.0/InterfaceApp.deps.json
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/bin/Debug/net6.0/InterfaceApp.runtimeconfig.json
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/bin/Debug/net6.0/InterfaceApp.dll
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/bin/Debug/net6.0/InterfaceApp.pdb
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.csproj.AssemblyReference.cache
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.AssemblyInfoInputs.cache
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.AssemblyInfo.cs
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.csproj.CoreCompileInputs.cache
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.dll
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/refint/InterfaceApp.dll
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.pdb
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/InterfaceApp.genruntimeconfig.cache
+/Users/jpmac/RiderProjects/InterfaceApp/InterfaceApp/obj/Debug/net6.0/ref/InterfaceApp.dll
